@@ -6,7 +6,7 @@ Prior to this, I completed a **Full Stack Development internship at WebMobi360 i
 In addition to my professional experience, I completed my **Bachelor of Computer Applications (BCA)** from **Apex Institute of Management and Science** with a **GPA of 7.4**.
 
 
-🚀 Portfolio: https://amankumawat.vercel.app
+🚀 Portfolio: https://amankumawat-tech.vercel.app
 
 📩 Email: amankumawat4507@gmail.com
 
